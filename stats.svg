@@ -13,13 +13,13 @@
   <rect class="card" x="0.5" y="0.5" width="399" height="189" rx="4.5"/>
   <text class="title" x="25" y="35">Rasukarusan's GitHub Stats</text>
   <text class="label" x="25" y="70">Total Stars:</text>
-  <text class="value" x="375" y="70" text-anchor="end">447</text>
+  <text class="value" x="375" y="70" text-anchor="end">445</text>
   <text class="label" x="25" y="96">Commits (last year):</text>
-  <text class="value" x="375" y="96" text-anchor="end">5,305</text>
+  <text class="value" x="375" y="96" text-anchor="end">5,306</text>
   <text class="label" x="25" y="122">Total PRs:</text>
-  <text class="value" x="375" y="122" text-anchor="end">871</text>
+  <text class="value" x="375" y="122" text-anchor="end">283</text>
   <text class="label" x="25" y="148">Total Issues:</text>
-  <text class="value" x="375" y="148" text-anchor="end">238</text>
+  <text class="value" x="375" y="148" text-anchor="end">143</text>
   <text class="label" x="25" y="174">Contributed to:</text>
-  <text class="value" x="375" y="174" text-anchor="end">11</text>
+  <text class="value" x="375" y="174" text-anchor="end">1</text>
 </svg>
