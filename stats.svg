@@ -18,7 +18,7 @@
   <text x="260" y="19" text-anchor="middle" style="font-size:12px;fill:#888888">zsh</text>
 
   <text x="20" y="66"><tspan fill="#8fbfdc">~/Rasukarusan</tspan><tspan fill="#99ad6a">  master ✔</tspan></text>
-  <text x="500" y="66" text-anchor="end" fill="#888888">14:51:57</text>
+  <text x="500" y="66" text-anchor="end" fill="#888888">14:30:48</text>
   <text x="20" y="88">$ gh stats</text>
   <rect class="typing" x="36.8" y="73" width="69.2" height="20" fill="#151515" style="transform:translateX(69.2px)"/>
 
